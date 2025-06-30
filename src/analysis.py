@@ -1,7 +1,7 @@
 
 import pandas as pd
 
-df = pd.read_csv('../data/living.csv')
+df = pd.read_csv('data/living.csv')
 
 num_filas, num_columnas = df.shape
 
