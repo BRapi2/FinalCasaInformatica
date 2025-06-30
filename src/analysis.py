@@ -1,10 +1,8 @@
-# src/analysis.py
+
 import pandas as pd
 
-# Cargar datos
 df = pd.read_csv('../data/living.csv')
 
-# Nro. de filas y columnas
 num_filas, num_columnas = df.shape
 
 # Costo de vida promedio

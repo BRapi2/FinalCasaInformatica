@@ -34,4 +34,4 @@ Este proyecto analiza el costo de vida en distintos países usando datos de 2017
 
 ## Créditos
 
-Dataset original: [living.csv]
+Leonardo Palomino Dataset
